@@ -96,7 +96,7 @@
 
 <p>
     <a href="https://github.com/Swapnil-kus-1503/banggood.in-clone">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/Swapnil-kus-1503&repo=banggood.in-clone&locale=en&border_radius=0&theme=dark" alt="https://github.com/Swapnil-kus-1503/banggood.in-clone" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Swapnil-kus-1503&repo=banggood.in-clone&locale=en&border_radius=0&theme=dark" alt="https://github.com/Swapnil-kus-1503" />
     </a>
     <a href="https://github.com/m-sehrawat/Mini-Store">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Mini-Store&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
