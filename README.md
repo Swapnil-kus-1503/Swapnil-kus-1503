@@ -25,7 +25,7 @@
 
 <p align="left">
     <a href="https://github.com/Swapnil-kus-1503">
-        <img src="https://komarev.com/ghpvc/?username=m-sehrawat&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+        <img src="https://komarev.com/ghpvc/?username=swapnil-kus-1503&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil-kus-1503" />
     </a>
 </p>
 <br>
