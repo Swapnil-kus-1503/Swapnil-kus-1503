@@ -101,4 +101,7 @@
     <a href="https://github.com/Swapnil-kus-1503/Funcorp_clone">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Swapnil-kus-1503&repo=Funcorp_clone&locale=en&border_radius=0&theme=dark" alt="https://github.com/Swapnil-kus-1503/Funcorp_clone" />
     </a>
+    <a href="https://github.com/Swapnil-kus-1503/boat-clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Swapnil-kus-1503&repo=boat-clone&locale=en&border_radius=0&theme=dark" alt="https://github.com/Swapnil-kus-1503/boat-clone" />
+    </a>
 </p>
